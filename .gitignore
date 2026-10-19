@@ -1,0 +1,40 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE settings and generated projects
+.idea/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj/
+*.xcworkspace/
+
+# Compiled files
+*.o
+*.obj
+*.pdb
+*.dll
+*.dylib
+*.so
+*.exe
+
+# Local and operating system files
+.DS_Store
+._*
+*.log
+*.tmp
+Content/Developers/
+Content/__Developers__/

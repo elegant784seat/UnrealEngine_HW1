@@ -24,10 +24,6 @@
 			]
 		},
 		{
-			"Name": "PCG",
-			"Enabled": true
-		},
-		{
 			"Name": "StateTree",
 			"Enabled": true
 		},
